@@ -2,5 +2,6 @@
 <settings>
 	<category label="30000">
 		<setting label="30001" type="select" id="snes9x_next_overclock" values="Disabled(10MHz)|40MHz|60MHz|80MHz|100MHz|Underclock(5MHz)|Underclock(8MHz)" default="Disabled(10MHz)"/>
+		<setting label="30002" type="select" id="snes9x_next_overclock_cycles" values="disabled|enabled" default="disabled"/>
 	</category>
 </settings>

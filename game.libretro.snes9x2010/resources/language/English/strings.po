@@ -24,3 +24,7 @@ msgctxt "#30001"
 msgid "SuperFX Overclock"
 msgstr ""
 
+msgctxt "#30002"
+msgid "CPU Overclock (Hack, Unsafe)"
+msgstr ""
+
