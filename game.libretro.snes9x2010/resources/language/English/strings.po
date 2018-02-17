@@ -25,6 +25,10 @@ msgid "SuperFX Overclock"
 msgstr ""
 
 msgctxt "#30002"
-msgid "CPU Overclock (Hack, Unsafe)"
+msgid "Reduce Slowdown (Hack, Unsafe)"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Reduce Flickering (Hack, Unsafe)"
 msgstr ""
 
