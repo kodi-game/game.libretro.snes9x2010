@@ -27,6 +27,7 @@ Icon credit: HarryBana (harrybana.deviantart.com)
 Supported files: .smc, .fig, .sfc, .gd3, .gd7, .dx2, .bsx, .swc</description>
 		<license>Non-commercial</license>
 		<platform>@PLATFORM@</platform>
+		<source>https://github.com/kodi-game/game.libretro.snes9x2010</source>
 		<assets>
 			<icon>resources/icon.png</icon>
 			<screenshot>resources/screenshot-01.jpg</screenshot>
