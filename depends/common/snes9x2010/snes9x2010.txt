@@ -1,1 +1,1 @@
-snes9x2010 https://github.com/libretro/snes9x2010/archive/ead24f29b2af0df83f3365d3e887bdd81979c1a2.zip
+snes9x2010 https://github.com/libretro/snes9x2010 master
