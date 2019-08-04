@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.snes9x2010"
 		name="Nintendo - SNES / Famicom (Snes9x 2010)"
-		version="1.52.4.4"
+		version="1.52.4.5"
 		provider-name="Libretro">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
