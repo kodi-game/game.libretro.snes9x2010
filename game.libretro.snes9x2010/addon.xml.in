@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.snes9x2010"
 		name="Nintendo - SNES / SFC (Snes9x 2010)"
-		version="1.52.4.9"
-		provider-name="Libretro">
+		version="1.52.4.10"
+		provider-name="Snes9x Team, Squarepusher">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 		<import addon="game.controller.snes" version="1.0.0"/>
