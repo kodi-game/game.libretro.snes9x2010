@@ -33,21 +33,29 @@ msgid "Block Invalid VRAM Access (Restart)"
 msgstr ""
 
 msgctxt "#30004"
-msgid "SuperFX Overclock"
+msgid "Frameskip"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Reduce Slowdown (Hack, Unsafe)"
+msgid "Frameskip Threshold (%)"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Reduce Flickering (Hack, Unsafe)"
+msgid "SuperFX Overclock"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Console Region (Restart)"
+msgid "Reduce Slowdown (Hack, Unsafe)"
 msgstr ""
 
 msgctxt "#30008"
+msgid "Reduce Flickering (Hack, Unsafe)"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Console Region (Restart)"
+msgstr ""
+
+msgctxt "#30010"
 msgid "Set Autofire Pulse"
 msgstr ""
