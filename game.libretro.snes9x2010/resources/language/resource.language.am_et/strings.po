@@ -21,41 +21,41 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Preferred Aspect Ratio"
-msgstr ""
-
-msgctxt "#30002"
-msgid "Blargg NTSC Filter"
-msgstr ""
-
-msgctxt "#30003"
-msgid "Block Invalid VRAM Access (Restart)"
-msgstr ""
-
-msgctxt "#30004"
-msgid "Frameskip"
-msgstr ""
-
-msgctxt "#30005"
-msgid "Frameskip Threshold (%)"
-msgstr ""
-
-msgctxt "#30006"
 msgid "SuperFX Overclock"
 msgstr ""
 
-msgctxt "#30007"
+msgctxt "#30002"
 msgid "Reduce Slowdown (Hack, Unsafe)"
 msgstr ""
 
-msgctxt "#30008"
+msgctxt "#30003"
 msgid "Reduce Flickering (Hack, Unsafe)"
 msgstr ""
 
-msgctxt "#30009"
+msgctxt "#30004"
 msgid "Console Region (Restart)"
 msgstr ""
 
-msgctxt "#30010"
+msgctxt "#30005"
+msgid "Preferred Aspect Ratio"
+msgstr ""
+
+msgctxt "#30006"
 msgid "Set Autofire Pulse"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Blargg NTSC Filter"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Block Invalid VRAM Access (Restart)"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Frameskip"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Frameskip Threshold (%)"
 msgstr ""
