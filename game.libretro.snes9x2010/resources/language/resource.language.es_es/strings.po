@@ -26,7 +26,7 @@ msgid "A port of Snes9x 1.52+ to Libretro. Rewritten in C with several optimizat
 msgstr ""
 
 msgctxt "Addon Disclaimer"
-msgid "Icon credit: HarryBana <harrybana.deviantart.com>"
+msgid "Icon credit: HarryBana (harrybana.deviantart.com)"
 msgstr ""
 
 msgctxt "#30000"
