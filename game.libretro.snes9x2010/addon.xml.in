@@ -30,7 +30,9 @@
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
 		<summary lang="en_GB">Nintendo - SNES / SFC (Snes9x 2010) 1.52.4</summary>
+		<description lang="da_DK">En port af Snes9x 1.52+ til Libretro. Omskrevet i C med flere optimeringer og speedhacks.</description>
 		<description lang="en_GB">A port of Snes9x 1.52+ to Libretro. Rewritten in C with several optimizations and speedhacks.</description>
+		<disclaimer lang="da_DK">Billedkreditering: HarryBana (harrybana.deviantart.com)</disclaimer>
 		<disclaimer lang="en_GB">Icon credit: HarryBana (harrybana.deviantart.com)</disclaimer>
 	</extension>
 </addon>
