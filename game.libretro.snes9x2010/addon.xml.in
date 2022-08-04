@@ -33,8 +33,10 @@
 		<description lang="da_DK">En port af Snes9x 1.52+ til Libretro. Omskrevet i C med flere optimeringer og speedhacks.</description>
 		<description lang="en_GB">A port of Snes9x 1.52+ to Libretro. Rewritten in C with several optimizations and speedhacks.</description>
 		<description lang="fi_FI">Snes9x 1.52+ -käännös Libretrolle. Koodattu uudelleen C-kielellä sisältäen useita optimointeja ja pikahakkerointeja.</description>
+		<description lang="zh_CN">一个针对 Libretro 的 Snes9x 1.52+ 移植。用 C 重写，进行了多次优化和 Speed Hack。</description>
 		<disclaimer lang="da_DK">Billedkreditering: HarryBana (harrybana.deviantart.com)</disclaimer>
 		<disclaimer lang="en_GB">Icon credit: HarryBana (harrybana.deviantart.com)</disclaimer>
 		<disclaimer lang="fi_FI">Kuvakkeen lähde: HarryBana (harrybana.deviantart.com)</disclaimer>
+		<disclaimer lang="zh_CN">图标来源：HarryBana（harrybana.deviantart.com）</disclaimer>
 	</extension>
 </addon>
