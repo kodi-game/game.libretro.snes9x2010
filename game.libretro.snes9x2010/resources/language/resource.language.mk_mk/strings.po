@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n==1 || n%10==1 ? 0 : 1;\n"
 
 msgctxt "Addon Summary"
-msgid "Nintendo - SNES / SFC (Snes9x 2010) 1.52.4"
+msgid "Nintendo - SNES / SFC (Snes9x 2010)"
 msgstr ""
 
 msgctxt "Addon Description"
