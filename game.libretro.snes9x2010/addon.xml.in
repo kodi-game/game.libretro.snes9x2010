@@ -32,6 +32,7 @@
 		<summary lang="da_DK">Nintendo - SNES / SFC (Snes9x 2010)</summary>
 		<summary lang="en_GB">Nintendo - SNES / SFC (Snes9x 2010)</summary>
 		<summary lang="es_ES">Nintendo - SNES / SFC (Snes9x 2010)</summary>
+		<summary lang="zh_CN">任天堂 - SNES / SFC (Snes9x 2010)</summary>
 		<description lang="da_DK">En port af Snes9x 1.52+ til Libretro. Omskrevet i C med flere optimeringer og speedhacks.</description>
 		<description lang="de_DE">Eine Portierung von Snes9x 1.52+ auf Libretro. Umgeschrieben in C mit mehreren Optimierungen und Schwingigkeitshacks.</description>
 		<description lang="en_GB">A port of Snes9x 1.52+ to Libretro. Rewritten in C with several optimizations and speedhacks.</description>
