@@ -28,10 +28,6 @@ msgctxt "Addon Disclaimer"
 msgid "Icon credit: HarryBana (harrybana.deviantart.com)"
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr ""
-
 msgctxt "#30001"
 msgid "Console Region (Restart)"
 msgstr ""

@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Icon credit: HarryBana (harrybana.deviantart.com)"
 msgstr "Kuvakkeen lähde: HarryBana (harrybana.deviantart.com)"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Asetukset"
-
 msgctxt "#30001"
 msgid "Console Region (Restart)"
 msgstr "Konsolin alue (uudelleenkäynnistys)"
@@ -72,3 +68,7 @@ msgstr "Vähennä välkettä (hakkerointi, turvaton)"
 msgctxt "#30010"
 msgid "Block Invalid VRAM Access (Restart)"
 msgstr "Estä virheellinen VRAM-käyttö (uudelleenkäynnistys)"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Asetukset"

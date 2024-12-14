@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Icon credit: HarryBana (harrybana.deviantart.com)"
 msgstr "图标来源：HarryBana（harrybana.deviantart.com）"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "设置"
-
 msgctxt "#30001"
 msgid "Console Region (Restart)"
 msgstr "控制台区域（重新启动）"
@@ -72,3 +68,7 @@ msgstr "减少闪烁（Hack、不安全）"
 msgctxt "#30010"
 msgid "Block Invalid VRAM Access (Restart)"
 msgstr "阻止无效的 VRAM 访问（重新启动）"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "设置"

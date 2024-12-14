@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Icon credit: HarryBana (harrybana.deviantart.com)"
 msgstr "Symbolnachweis: HarryBana (harrybana.deviantart.com)"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Einstellungen"
-
 msgctxt "#30001"
 msgid "Console Region (Restart)"
 msgstr "Konsolenregion (Neustart erforderlich)"
@@ -72,3 +68,7 @@ msgstr "Flackern verringern (Hack, unsicher)"
 msgctxt "#30010"
 msgid "Block Invalid VRAM Access (Restart)"
 msgstr "Ungültigen VRAM-Zugriff blockieren (Neustart erforderlich)"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Einstellungen"

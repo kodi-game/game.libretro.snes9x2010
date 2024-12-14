@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Icon credit: HarryBana (harrybana.deviantart.com)"
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Impostazioni"
-
 msgctxt "#30001"
 msgid "Console Region (Restart)"
 msgstr ""
@@ -72,3 +68,7 @@ msgstr ""
 msgctxt "#30010"
 msgid "Block Invalid VRAM Access (Restart)"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Impostazioni"

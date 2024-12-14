@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Icon credit: HarryBana (harrybana.deviantart.com)"
 msgstr "Billedkreditering: HarryBana (harrybana.deviantart.com)"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Indstillinger"
-
 msgctxt "#30001"
 msgid "Console Region (Restart)"
 msgstr "Konsolområde (genstart)"
@@ -72,3 +68,7 @@ msgstr "Reducer flimmer (hack, usikker)"
 msgctxt "#30010"
 msgid "Block Invalid VRAM Access (Restart)"
 msgstr "Bloker ugyldig VRAM-adgang (genstart)"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Indstillinger"
