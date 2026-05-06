@@ -11,5 +11,7 @@
 		<setting label="30008" type="select" id="snes9x_2010_overclock_cycles" values="disabled|light|compatible|max" default="disabled"/>
 		<setting label="30009" type="select" id="snes9x_2010_reduce_sprite_flicker" values="disabled|enabled" default="disabled"/>
 		<setting label="30010" type="select" id="snes9x_2010_block_invalid_vram_access" values="enabled|disabled" default="enabled"/>
+		<setting label="30011" type="select" id="snes9x_2010_mode7_hires" values="disabled|2x|4x|2x_hv|4x_hv" default="disabled"/>
+		<setting label="30012" type="select" id="snes9x_2010_mode7_hires_bilinear" values="stable|disabled|smooth" default="stable"/>
 	</category>
 </settings>

@@ -69,3 +69,11 @@ msgstr ""
 msgctxt "#30010"
 msgid "Block Invalid VRAM Access (Restart)"
 msgstr ""
+
+msgctxt "#30011"
+msgid "Mode 7 - Hires (Restart)"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Mode 7 - Bilinear Filter"
+msgstr ""

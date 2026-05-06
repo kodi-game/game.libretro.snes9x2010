@@ -1,1 +1,1 @@
-snes9x2010 https://github.com/libretro/snes9x2010/archive/a7a4bfaed4c6408908c76af20ad625e1645c3d11.tar.gz
+snes9x2010 https://github.com/libretro/snes9x2010/archive/d9cba8a41b3407ebb929816a7033e0407fd7b2d0.tar.gz
