@@ -74,6 +74,14 @@ msgctxt "#30010"
 msgid "Block Invalid VRAM Access (Restart)"
 msgstr "Blockera ogiltig VRAM-åtkomst (omstart)"
 
+msgctxt "#30011"
+msgid "Mode 7 - Hires (Restart)"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Mode 7 - Bilinear Filter"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Inställningar"
