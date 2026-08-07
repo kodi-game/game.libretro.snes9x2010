@@ -69,12 +69,28 @@ msgctxt "#30010"
 msgid "Block Invalid VRAM Access (Restart)"
 msgstr ""
 
-msgctxt "#30011"
-msgid "Mode 7 - Hires (Restart)"
-msgstr ""
-
 msgctxt "#30012"
 msgid "Mode 7 - Bilinear Filter"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Audio Interpolation (Inaccurate)"
+msgstr ""
+
+msgctxt "#30014"
+msgid "MSU-1 Enhanced Audio"
+msgstr ""
+
+msgctxt "#30015"
+msgid "SuperFX Cycle Accuracy"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Mode 7 - Hires"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Pseudo-Hires Blending"
 msgstr ""
 
 #~ msgctxt "#30000"

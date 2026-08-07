@@ -69,13 +69,33 @@ msgctxt "#30010"
 msgid "Block Invalid VRAM Access (Restart)"
 msgstr "阻止无效的 VRAM 访问（重新启动）"
 
-msgctxt "#30011"
-msgid "Mode 7 - Hires (Restart)"
-msgstr "模式 7 - 高分辨率（需重启）"
-
 msgctxt "#30012"
 msgid "Mode 7 - Bilinear Filter"
 msgstr "模式 7 - 双线性滤镜"
+
+msgctxt "#30013"
+msgid "Audio Interpolation (Inaccurate)"
+msgstr ""
+
+msgctxt "#30014"
+msgid "MSU-1 Enhanced Audio"
+msgstr ""
+
+msgctxt "#30015"
+msgid "SuperFX Cycle Accuracy"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Mode 7 - Hires"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Pseudo-Hires Blending"
+msgstr ""
+
+#~ msgctxt "#30011"
+#~ msgid "Mode 7 - Hires (Restart)"
+#~ msgstr "模式 7 - 高分辨率（需重启）"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
