@@ -38,10 +38,6 @@ msgctxt "#30002"
 msgid "Preferred Aspect Ratio"
 msgstr ""
 
-msgctxt "#30003"
-msgid "Set Autofire Pulse"
-msgstr ""
-
 msgctxt "#30004"
 msgid "Blargg NTSC Filter"
 msgstr ""
@@ -92,4 +88,8 @@ msgstr ""
 
 msgctxt "#30017"
 msgid "Pseudo-Hires Blending"
+msgstr ""
+
+msgctxt "#30018"
+msgid "SuperFX Timing Model (Experimental)"
 msgstr ""
