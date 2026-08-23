@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.snes9x2010\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2016-12-26 21:46i\n"
-"PO-Revision-Date: 2026-08-15 23:20+0000\n"
+"PO-Revision-Date: 2026-08-23 04:14+0000\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-snes9x2010/it_it/>\n"
 "Language: it_it\n"
@@ -19,15 +19,15 @@ msgstr ""
 
 msgctxt "Addon Summary"
 msgid "Nintendo - SNES / SFC (Snes9x 2010)"
-msgstr ""
+msgstr "Nintendo - SNES / SFC (Snes9x 2010)"
 
 msgctxt "Addon Description"
 msgid "A port of Snes9x 1.52+ to Libretro. Rewritten in C with several optimizations and speedhacks."
-msgstr ""
+msgstr "Un port di Snes9x 1.52+ per Libretro. Riscritto in C con diverse ottimizzazioni e speedhack."
 
 msgctxt "Addon Disclaimer"
 msgid "Icon credit: HarryBana (harrybana.deviantart.com)"
-msgstr ""
+msgstr "Icona per gentile concessione di: HarryBana (harrybana.deviantart.com)"
 
 msgctxt "#30001"
 msgid "Console Region (Restart)"
@@ -37,13 +37,9 @@ msgctxt "#30002"
 msgid "Preferred Aspect Ratio"
 msgstr "Proporzioni preferite"
 
-msgctxt "#30003"
-msgid "Set Autofire Pulse"
-msgstr ""
-
 msgctxt "#30004"
 msgid "Blargg NTSC Filter"
-msgstr ""
+msgstr "Filtro NTSC Blargg"
 
 msgctxt "#30005"
 msgid "Frameskip"
@@ -55,43 +51,223 @@ msgstr "Soglia di salto fotogrammi (%)"
 
 msgctxt "#30007"
 msgid "SuperFX Overclock"
-msgstr ""
+msgstr "Overclock SuperFX"
 
 msgctxt "#30008"
 msgid "Reduce Slowdown (Hack, Unsafe)"
-msgstr ""
+msgstr "Riduci rallentamenti (hack, non sicuro)"
 
 msgctxt "#30009"
 msgid "Reduce Flickering (Hack, Unsafe)"
-msgstr ""
+msgstr "Riduci sfarfallio (hack, non sicuro)"
 
 msgctxt "#30010"
 msgid "Block Invalid VRAM Access (Restart)"
-msgstr ""
+msgstr "Blocca accessi VRAM non validi (richiede riavvio)"
 
 msgctxt "#30012"
 msgid "Mode 7 - Bilinear Filter"
-msgstr ""
+msgstr "Modalità 7 - Filtro bilineare"
 
 msgctxt "#30013"
 msgid "Audio Interpolation (Inaccurate)"
-msgstr ""
+msgstr "Interpolazione audio (non accurata)"
 
 msgctxt "#30014"
 msgid "MSU-1 Enhanced Audio"
-msgstr ""
+msgstr "Audio avanzato MSU-1"
 
 msgctxt "#30015"
 msgid "SuperFX Cycle Accuracy"
-msgstr ""
+msgstr "Accuratezza cicli SuperFX"
 
 msgctxt "#30016"
 msgid "Mode 7 - Hires"
-msgstr ""
+msgstr "Modalità 7 - Alta risoluzione"
 
 msgctxt "#30017"
 msgid "Pseudo-Hires Blending"
+msgstr "Fusione pseudo alta risoluzione"
+
+msgctxt "#30018"
+msgid "SuperFX Timing Model (Experimental)"
+msgstr "Modello di temporizzazione SuperFX (sperimentale)"
+
+msgctxt "#30019"
+msgid "Specify which region the system is from. 'PAL' is 50hz, 'NTSC' is 60hz. Games will run faster or slower than normal if the incorrect region is selected."
+msgstr "Specifica la regione del sistema. 'PAL' è a 50Hz, 'NTSC' è a 60Hz. I giochi verranno eseguiti più velocemente o più lentamente del normale se viene selezionata la regione errata."
+
+msgctxt "#30020"
+msgid "Auto"
+msgstr "Auto"
+
+msgctxt "#30021"
+msgid "NTSC"
+msgstr "NTSC"
+
+msgctxt "#30022"
+msgid "PAL"
+msgstr "PAL"
+
+msgctxt "#30023"
+msgid "Choose how each SNES voice's pitch is interpolated. 'Gaussian' matches real hardware. 'Cubic' is brighter and less muffled, but does not match hardware and does not undo BRR sample compression. 'Sinc' is the sharpest/brightest (8-tap) and the most CPU-intensive."
+msgstr "Scegli come viene interpolata l'intonazione di ogni voce SNES. 'Gaussiana' corrisponde all'hardware reale. 'Cubica' è più brillante e meno ovattata, ma non corrisponde all'hardware e non annulla la compressione dei campioni BRR. 'Sinc' è la più nitida/brillante (8 tap) e la più impegnativa per la CPU."
+
+msgctxt "#30024"
+msgid "Gaussian (Accurate)"
+msgstr "Gaussiana (accurata)"
+
+msgctxt "#30025"
+msgid "Cubic (Brighter)"
+msgstr "Cubica (più brillante)"
+
+msgctxt "#30026"
+msgid "Sinc (Sharpest)"
+msgstr "Sinc (più nitida)"
+
+msgctxt "#30027"
+msgid "Run the entire audio pipeline at 44.1 kHz for MSU-1 games. When disabled, MSU-1's 44.1 kHz PCM stream is decimated to the SNES's native ~32 kHz before output with no anti-alias filtering, folding the track's top octave into the audible band as slight hiss. When enabled, the SPC sound is resampled up to 44.1 kHz and the MSU-1 stream passes through bit-exactly at its native rate. Has no effect on non-MSU-1 games. Changing this takes effect on the next content load."
+msgstr "Esegue l'intera pipeline audio a 44.1 kHz per i giochi MSU-1. Se disattivato, lo stream PCM a 44.1 kHz di MSU-1 viene decimato alla frequenza nativa di ~32 kHz dello SNES prima dell'output, senza filtro anti-aliasing, ripiegando l'ottava più alta della traccia nella banda udibile come lieve fruscio. Se attivato, il suono SPC viene ricampionato fino a 44.1 kHz e lo stream MSU-1 passa inalterato alla sua frequenza nativa. Non ha effetto sui giochi non MSU-1. La modifica ha effetto al successivo caricamento del contenuto."
+
+msgctxt "#30028"
+msgid "Choose the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
+msgstr "Scegli il rapporto d'aspetto preferito per il contenuto. Si applica solo quando il rapporto d'aspetto di RetroArch è impostato su 'Fornito dal core' nelle impostazioni Video."
+
+msgctxt "#30029"
+msgid "Uncorrected"
+msgstr "Non corretto"
+
+msgctxt "#30030"
+msgid "Apply a video filter to mimic various NTSC TV signals."
+msgstr "Applica un filtro video per imitare vari segnali TV NTSC."
+
+msgctxt "#30031"
+msgid "Monochrome"
+msgstr "Monocromatico"
+
+msgctxt "#30032"
+msgid "RF"
+msgstr "RF"
+
+msgctxt "#30033"
+msgid "Composite"
+msgstr "Composito"
+
+msgctxt "#30034"
+msgid "S-Video"
+msgstr "S-Video"
+
+msgctxt "#30035"
+msgid "RGB"
+msgstr "RGB"
+
+msgctxt "#30036"
+msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilises the 'Frameskip Threshold (%)' setting."
+msgstr "Salta i fotogrammi per evitare l'esaurimento del buffer audio (crepitii). Migliora le prestazioni a scapito della fluidità visiva. 'Auto' salta i fotogrammi quando indicato dal frontend. 'Manuale' usa l'impostazione 'Soglia salto fotogrammi (%)'."
+
+msgctxt "#30037"
+msgid "Manual"
+msgstr "Manuale"
+
+msgctxt "#30038"
+msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
+msgstr "Quando 'Salto fotogrammi' è impostato su 'Manuale', specifica la percentuale di occupazione del buffer audio al di sotto della quale i fotogrammi verranno saltati. Valori più alti riducono il rischio di crepitii causando l'omissione più frequente dei fotogrammi."
+
+msgctxt "#30039"
+msgid "Blends adjacent column pairs in pseudo-hires frames to reproduce the composite-video softening that some games rely on for fake transparency effects (waterfalls, glass, fog: Kirby's Dream Land 3, Jurassic Park). Applies a 2-tap horizontal average to the finished 512 px frame while keeping the full hires resolution; it does not reduce the image to 256 px. Affects only frames that actually use pseudo-hires; native and true Mode 5/6 hires output is unchanged. Ignored when the Blargg NTSC filter is active, since that already simulates the same softening. Default off."
+msgstr "Fonde le coppie di colonne adiacenti nei fotogrammi pseudo-hires per riprodurre l'ammorbidimento tipico del video composito, sfruttato da alcuni giochi per falsi effetti di trasparenza (cascate, vetro, nebbia: Kirby's Dream Land 3, Jurassic Park). Applica una media orizzontale a 2 tap al fotogramma finale a 512 px mantenendo la piena risoluzione hires; non riduce l'immagine a 256 px. Interessa solo i fotogrammi che usano effettivamente lo pseudo-hires; l'output hires nativo e in vera Modalità 5/6 resta invariato. Viene ignorato quando è attivo il filtro NTSC Blargg, poiché già simula lo stesso ammorbidimento. Disattivato per impostazione predefinita."
+
+msgctxt "#30040"
+msgid "Emulation Hacks"
+msgstr "Trucchi di emulazione"
+
+msgctxt "#30041"
+msgid "Configure processor overclocking and emulation accuracy parameters affecting low-level performance and compatibility."
+msgstr "Configura l'overclock del processore e i parametri di accuratezza dell'emulazione che influiscono su prestazioni a basso livello e compatibilità."
+
+msgctxt "#30042"
+msgid "Overclock or underclock the SuperFX chip. This may improve the framerate and playability of games that use SuperFX."
+msgstr "Overclocka o underclocka il chip SuperFX. Questo può migliorare il framerate e la giocabilità dei giochi che usano SuperFX."
+
+msgctxt "#30043"
+msgid "Overclock SNES CPU. May cause games to crash! Use 'Light' for shorter loading times, 'Compatible' for most games exhibiting slowdown and 'Max' only if absolutely required (Gradius 3, Super R-type...)."
+msgstr "Overclocka la CPU SNES. Può causare il crash dei giochi! Usa 'Leggero' per tempi di caricamento più brevi, 'Compatibile' per la maggior parte dei giochi che presentano rallentamenti e 'Massimo' solo se strettamente necessario (Gradius 3, Super R-type...)."
+
+msgctxt "#30044"
+msgid "Light"
+msgstr "Leggero"
+
+msgctxt "#30045"
+msgid "Compatible"
+msgstr "Compatibile"
+
+msgctxt "#30046"
+msgid "Max"
+msgstr "Massimo"
+
+msgctxt "#30047"
+msgid "'Legacy' keeps the shipped per-line budgets (including the cycle-accuracy toggle below). 'Hardware-derived' charges each instruction its approximate real GSU cycle cost (cache-aware fetches, 5-cycle memory accesses, amortized plot flushes), matching ares/MiSTer wait states; backported from mainline Snes9x. When set to 'Hardware-derived', the cycle-accuracy toggle is ignored. Works together with the SuperFX Overclock option."
+msgstr "'Legacy' mantiene i budget per riga predefiniti (incluso l'interruttore di accuratezza dei cicli sottostante). 'Derivato dall'hardware' addebita a ogni istruzione il suo costo approssimativo in cicli GSU reali (fetch consapevoli della cache, accessi in memoria da 5 cicli, flush dei plot ammortizzati), corrispondendo agli stati di attesa di ares/MiSTer; retroportato da Snes9x mainline. Quando impostato su 'Derivato dall'hardware', l'interruttore di accuratezza dei cicli viene ignorato. Funziona insieme all'opzione Overclock SuperFX."
+
+msgctxt "#30048"
+msgid "Legacy"
+msgstr "Legacy"
+
+msgctxt "#30049"
+msgid "Hardware-derived"
+msgstr "Derivato dall'hardware"
+
+msgctxt "#30050"
+msgid "Charge each SuperFX (GSU) instruction an approximate hardware cycle cost (multiplies, RAM/ROM access, plots) rather than a flat per-instruction budget, for more hardware-like GSU timing. Set to 'disabled' for the legacy instruction-count behaviour. Works together with the SuperFX overclock option."
+msgstr "Addebita a ogni istruzione SuperFX (GSU) un costo approssimativo in cicli hardware (moltiplicazioni, accessi RAM/ROM, plot) invece di un budget fisso per istruzione, per una temporizzazione GSU più fedele all'hardware. Imposta su 'disattivato' per il comportamento legacy basato sul conteggio delle istruzioni. Funziona insieme all'opzione overclock SuperFX."
+
+msgctxt "#30051"
+msgid "Increases number of sprites that can be drawn simultaneously on screen."
+msgstr "Aumenta il numero di sprite che possono essere disegnati simultaneamente sullo schermo."
+
+msgctxt "#30052"
+msgid "Some homebrew/ROM hacks require this option to be disabled for correct operation."
+msgstr "Alcuni homebrew/ROM hack richiedono che questa opzione sia disattivata per funzionare correttamente."
+
+msgctxt "#30053"
+msgid "Render Mode 7 backgrounds at higher resolution. 2x renders at 512 px (smoother diagonals); 4x renders at 1024 px (smoothest, more expensive). The 2x_hv / 4x_hv variants additionally double the output vertically (448 rows) via an end-of-frame bilinear-Y average of adjacent rendered rows; HUD / sprites / non-M7 layers are row-duplicated. Smooths row-to-row transitions on Mode 7 ground textures but does not add per-line detail (the M7 plane still samples at 224 source rows). Affects only Mode 7 (driving / racing / overhead-rotation games). Other modes are unchanged. Default off."
+msgstr "Esegue il rendering degli sfondi in Modalità 7 a risoluzione più alta. 2x esegue il rendering a 512 px (diagonali più fluide); 4x a 1024 px (più fluido, ma più oneroso). Le varianti 2x_hv / 4x_hv raddoppiano inoltre l'output in verticale (448 righe) tramite una media bilineare-Y di fine fotogramma delle righe renderizzate adiacenti; HUD, sprite e livelli non-M7 vengono duplicati per riga. Ammorbidisce le transizioni tra le righe sulle texture del terreno in Modalità 7, ma non aggiunge dettaglio per riga (il piano M7 continua a campionare su 224 righe sorgente). Interessa solo la Modalità 7 (giochi di guida, corse, rotazione dall'alto). Le altre modalità restano invariate. Disattivato per impostazione predefinita."
+
+msgctxt "#30054"
+msgid "Apply bilinear filtering to Mode 7 backgrounds. Stable: blends along the X axis only with floor-Y sampling. Robust against high-contrast horizontal banding (rainbow rings, palette-rotation effects); recommended default. Smooth: 4-corner bilinear with a row-contrast guard that falls back to stable behaviour on high-contrast row pairs (avoids muddy seams on content like the Tiny Toons title screen). More aggressive smoothing along both axes; somewhat more expensive than stable. Independent of the Hires option; works at native, 2x and 4x."
+msgstr "Applica il filtro bilineare agli sfondi in Modalità 7. Stabile: fonde solo lungo l'asse X con campionamento floor-Y. Robusto contro il banding orizzontale ad alto contrasto (anelli arcobaleno, effetti di rotazione della palette); impostazione predefinita consigliata. Fluido: bilineare a 4 angoli con una protezione dal contrasto di riga che torna al comportamento stabile sulle coppie di righe ad alto contrasto (evita giunture sporche su contenuti come la schermata del titolo di Tiny Toons). Ammorbidimento più aggressivo lungo entrambi gli assi; leggermente più oneroso di quello stabile. Indipendente dall'opzione Hires; funziona a risoluzione nativa, 2x e 4x."
+
+msgctxt "#30055"
+msgid "4:3"
 msgstr ""
+
+msgctxt "#30056"
+msgid "2x"
+msgstr ""
+
+msgctxt "#30057"
+msgid "4x"
+msgstr ""
+
+msgctxt "#30058"
+msgid "2x_hv"
+msgstr ""
+
+msgctxt "#30059"
+msgid "4x_hv"
+msgstr ""
+
+msgctxt "#30060"
+msgid "stable"
+msgstr ""
+
+msgctxt "#30061"
+msgid "smooth"
+msgstr ""
+
+#~ msgctxt "#30003"
+#~ msgid "Set Autofire Pulse"
+#~ msgstr "Imposta impulso fuoco automatico"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
