@@ -237,3 +237,31 @@ msgstr ""
 msgctxt "#30054"
 msgid "Apply bilinear filtering to Mode 7 backgrounds. Stable: blends along the X axis only with floor-Y sampling. Robust against high-contrast horizontal banding (rainbow rings, palette-rotation effects); recommended default. Smooth: 4-corner bilinear with a row-contrast guard that falls back to stable behaviour on high-contrast row pairs (avoids muddy seams on content like the Tiny Toons title screen). More aggressive smoothing along both axes; somewhat more expensive than stable. Independent of the Hires option; works at native, 2x and 4x."
 msgstr ""
+
+msgctxt "#30055"
+msgid "4:3"
+msgstr ""
+
+msgctxt "#30056"
+msgid "2x"
+msgstr ""
+
+msgctxt "#30057"
+msgid "4x"
+msgstr ""
+
+msgctxt "#30058"
+msgid "2x_hv"
+msgstr ""
+
+msgctxt "#30059"
+msgid "4x_hv"
+msgstr ""
+
+msgctxt "#30060"
+msgid "stable"
+msgstr ""
+
+msgctxt "#30061"
+msgid "smooth"
+msgstr ""
