@@ -38,6 +38,17 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
+				<setting id="snes9x_2010_threaded_ppu" type="string" label="30062" help="30063">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
 				<setting id="snes9x_2010_aspect" type="string" label="30002" help="30028">
 					<level>0</level>
 					<default>auto</default>

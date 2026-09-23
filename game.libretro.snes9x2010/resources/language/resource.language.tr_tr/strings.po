@@ -51,15 +51,15 @@ msgstr ""
 
 msgctxt "#30007"
 msgid "SuperFX Overclock"
-msgstr ""
+msgstr "SuperFX Hız Aşırtma"
 
 msgctxt "#30008"
 msgid "Reduce Slowdown (Hack, Unsafe)"
-msgstr ""
+msgstr "Yavaşlamayı Azalt (Hack, Güvensiz)"
 
 msgctxt "#30009"
 msgid "Reduce Flickering (Hack, Unsafe)"
-msgstr ""
+msgstr "Kırılmayı Azalt (Hack, Güvensiz)"
 
 msgctxt "#30010"
 msgid "Block Invalid VRAM Access (Restart)"
@@ -187,23 +187,23 @@ msgstr ""
 
 msgctxt "#30042"
 msgid "Overclock or underclock the SuperFX chip. This may improve the framerate and playability of games that use SuperFX."
-msgstr ""
+msgstr "SuperFX işlemcisi frekans çarpanıdır. Kare hızını artırabilir veya zamanlama hatalarına neden olabilir. 10 altındaki değerler yavaş cihazlarda oyun performansını artırabilir."
 
 msgctxt "#30043"
 msgid "Overclock SNES CPU. May cause games to crash! Use 'Light' for shorter loading times, 'Compatible' for most games exhibiting slowdown and 'Max' only if absolutely required (Gradius 3, Super R-type...)."
-msgstr ""
+msgstr "SNES İşlemcisi için hız aşırtmadır. Oyunların çökmesine neden olabilir! Daha kısa yükleme süreleri için 'Hafif'i, yavaşlama gösteren oyunların çoğunda' Uyumlu 've yalnızca kesinlikle gerekliyse' Maks 'kullanın (Gradius 3, Süper R tipi ...)."
 
 msgctxt "#30044"
 msgid "Light"
-msgstr ""
+msgstr "Hafif"
 
 msgctxt "#30045"
 msgid "Compatible"
-msgstr ""
+msgstr "Uyumlu"
 
 msgctxt "#30046"
 msgid "Max"
-msgstr ""
+msgstr "Maks"
 
 msgctxt "#30047"
 msgid "'Legacy' keeps the shipped per-line budgets (including the cycle-accuracy toggle below). 'Hardware-derived' charges each instruction its approximate real GSU cycle cost (cache-aware fetches, 5-cycle memory accesses, amortized plot flushes), matching ares/MiSTer wait states; backported from mainline Snes9x. When set to 'Hardware-derived', the cycle-accuracy toggle is ignored. Works together with the SuperFX Overclock option."
@@ -223,7 +223,7 @@ msgstr ""
 
 msgctxt "#30051"
 msgid "Increases number of sprites that can be drawn simultaneously on screen."
-msgstr ""
+msgstr "Ekranda aynı anda çizilebilen sprite sayısını arttırır."
 
 msgctxt "#30052"
 msgid "Some homebrew/ROM hacks require this option to be disabled for correct operation."
@@ -263,4 +263,12 @@ msgstr ""
 
 msgctxt "#30061"
 msgid "smooth"
+msgstr ""
+
+msgctxt "#30062"
+msgid "Threaded Renderer"
+msgstr ""
+
+msgctxt "#30063"
+msgid "Draw the picture on a second thread, a scanline range at a time, while the CPU runs on. Output is identical either way. Worth it where there is a spare core to draw on; on a single-core machine it only adds the cost of handing work across. Changing this takes effect on the next content load."
 msgstr ""
